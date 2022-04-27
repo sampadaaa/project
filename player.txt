@@ -1,0 +1,14 @@
+<<<<<<< HEAD
+Neymar, in full Neymar da Silva Santos, Jr., (born February 5, 1992, Mogi das Cruzes, Brazil), Brazilian football (soccer) player who was one of the most prolific scorers in his country’s storied football history.
+
+Neymar began playing football as a boy in São Vicente, under the guidance of his father, a former professional footballer who remained a close adviser and mentor throughout his son’s career. 
+Having played street and indoor five-a-side football, Neymar joined Portuguesa Santista’s youth team in São Vicente, and in 2003 he and his family moved to Santos. 
+There Neymar, who was already an impressive player, joined the youth academy of Santos FC (the same club for which Brazilian football legend Pelé starred over the majority of his domestic career).
+=======
+Neymar, in full Neymar da Silva Santos, Jr., (born February 5, 1992, Mogi das Cruzes, Brazil), Brazilian football (soccer) player who was one of the most prolific scorers in his country’s storied football history.
+
+Neymar began playing football as a boy in São Vicente, under the guidance of his father, a former professional footballer who remained a close adviser and mentor throughout his son’s career. 
+Having played street and indoor five-a-side football, Neymar joined Portuguesa Santista’s youth team in São Vicente, and in 2003 he and his family moved to Santos. 
+There Neymar, who was already an impressive player, joined the youth academy of Santos FC (the same club for which Brazilian football legend Pelé starred over the majority of his domestic career).
+>>>>>>> 225f0795bc75269e89cf2b3b2e257af9a5628d3c
+ At age 14 he had a successful trial with Spain’s Real Madrid, and Santos had to increase its spending to retain him.
